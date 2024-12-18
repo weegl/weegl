@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://cdn.discordapp.com/attachments/1314349269569765406/1318766706398859305/77EEB184-688C-406F-83BB-08FFD112532A.jpeg?ex=676384b4&is=67623334&hm=7fbb009e94646ce0228a8f7ecdc8cce3901ff46c7d842f08ccdc34e4860b180a&"  />
+  <img height="350" src="https://cdn.discordapp.com/attachments/1314349269569765406/1318766706398859305/77EEB184-688C-406F-83BB-08FFD112532A.jpeg?ex=676384b4&is=67623334&hm=7fbb009e94646ce0228a8f7ecdc8cce3901ff46c7d842f08ccdc34e4860b180a&"  />
 </div>
 
 ###
