@@ -1,5 +1,6 @@
-<p align="left">I'm a 20yo French Fullstack Developer</p>
+<p align="left">19 yo French fullstack dev</p>
 
+working on osint projects
 ###
 
 <div align="center">
