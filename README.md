@@ -1,6 +1,4 @@
-<p align="left">20 yo French fullstack dev</p>
-
-working on osint projects and fisha app
+<p align="left">20 yo French developer</p>
 ###
 
 <div align="center">
